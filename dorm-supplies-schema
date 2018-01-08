@@ -4,7 +4,15 @@
 
 #### Users
 ```js
-let x = 10
+{
+  id, 
+  name : String, 
+  hash : String,
+  email : String, 
+  isAdmin : Boolean,
+  address : String, 
+  classYear : Number, 
+}
 ```
 
 Items 
